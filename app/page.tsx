@@ -7,11 +7,11 @@ export default function Home() {
 
         {/* Profile Picture */}
         <div>
-          <img
-            src="/profile.jpg"
-            alt="Anhui Huang"
-            className="w-[90%] h-[440px] border-2object-cover object-top"
-          />
+         <img
+  src="/profile.jpg"
+  alt="Anhui Huang"
+  className="w-[90%] h-auto md:h-[440px] object-cover object-top"
+/>
         </div>
 
         {/* Body */}
