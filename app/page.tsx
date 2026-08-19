@@ -10,7 +10,7 @@ export default function Home() {
          <img
   src="/profile.jpg"
   alt="Anhui Huang"
-  className="w-[90%] h-auto md:h-[440px] object-cover object-top"
+  className="w-[90%] h-auto md:h-[440px] md:object-cover md:object-top border-2"
 />
         </div>
 

@@ -19,7 +19,7 @@ export default function Teaching() {
               <p className="text-[#BFC5B9]">Summer 2024</p>
             </div>
 
-            <h3 className="italic mb-2">Associate Instructor</h3>
+            <h3 className="italic mb-2">Assistant Instructor</h3>
 
             <div className="space-y-2 leading-tight">
               <div>
@@ -75,7 +75,7 @@ export default function Teaching() {
           <section className="mb-10">
             <h2 className="text-lg font-bold mb-4">Williams College</h2>
 
-            <h3 className="italic mb-2">Teaching Assistant</h3>
+            <h3 className="italic mb-2">Assistant Instructor</h3>
 
             <div className="space-y-2 leading-tight">
               <div>
@@ -95,7 +95,7 @@ export default function Teaching() {
               Sinoway International Summer School, Shanghai
             </h2>
 
-            <h3 className="italic mb-2">Teaching Assistant</h3>
+            <h3 className="italic mb-2">Assistant Instructor</h3>
 
             <div className="space-y-2 leading-tight">
               <div>
