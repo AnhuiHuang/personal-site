@@ -35,7 +35,7 @@ export default function RootLayout({
           </h1>
 
           {/* Navigation */}
-          <nav className="flex justify-center gap-20 mt-10 pb-5 text-base font-normal">
+          <nav className="flex justify-center gap-6 sm:gap-12 mt-10 pb-5 text-base font-normal">
             <Link href="/" className={linkClass("/")}>
               Home
             </Link>
