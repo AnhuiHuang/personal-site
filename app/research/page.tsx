@@ -31,7 +31,7 @@
           </div>
 
           <div className="text-justify">
-            ""What It Takes to Be Sure"
+            "What It Takes to Be Sure"
             <p className="mt-1 text-justify">
               What is it to be sure? I argue that being sure is not a matter of having high credence. Instead, certainty is a zetetic notion: to be sure is to take inquiry to be closed. I develop this proposal with an inquiry model of certainty.
 
