@@ -47,6 +47,9 @@ export default function RootLayout({
             <Link href="/teaching" className={linkClass("/teaching")}>
               Teaching
             </Link>
+            <Link href="/more-about-me" className={linkClass("/more-about-me")}>
+              About
+            </Link>
           </nav>
 
         </header>
