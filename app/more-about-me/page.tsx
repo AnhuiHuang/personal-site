@@ -33,7 +33,7 @@ export default function MoreAboutMe() {
       </div>
 
       <p className="mt-4 text-justify">
-        Your text about the sweater goes here.
+        This is the first sweater I knitted.
       </p>
     </div>
 
