@@ -23,7 +23,9 @@
         <h2 className="text-2xl mb-6 text-justify">Works in Progress</h2>
         <div className="space-y-5">
           <div className="text-justify">
-            "Expressing Uncertainty"{" "}
+            <a href="public/expressing-uncertainty.pdf" target="_blank" rel="noopener noreferrer" className="underline text-[#BFC5B9]">
+  Expressing Uncertainty
+</a>
   <span></span>
             <p className="mt-1 text-justify">
               Denials of certainty, but not denials of knowledge, generate an opinion inference: denying that one is sure communicates that one has something in mind. The standard view of certainty, which identifies certainty with maximal credence (credence one or close to one), cannot explain the asymmetry. In this paper, I propose an alternative account of certainty that can: being certain just is taking inquiry to be closed. 
@@ -31,7 +33,9 @@
           </div>
 
           <div className="text-justify">
-            "What It Takes to Be Sure"
+            <a href="public/what-it-takes-to-be-sure.pdf" target="_blank" rel="noopener noreferrer" className="underline text-[#BFC5B9]">
+  What It Takes to Be Sure
+</a>
             <p className="mt-1 text-justify">
               What is it to be sure? I argue that being sure is not a matter of having high credence. Instead, certainty is a zetetic notion: to be sure is to take inquiry to be closed. I develop this proposal with an inquiry model of certainty.
 
@@ -40,7 +44,9 @@
 
           <div className="text-justify">
         
-            "Collective Inquiry and Expiring Assertion"{" "}
+            <a href="public/collective-inquiry-and-expiring-assertibility.pdf" target="_blank" rel="noopener noreferrer" className="underline text-[#BFC5B9]">
+  Collective Inquiry and Expiring Assertibility
+</a>
   <span></span>
             <p className="mt-1 text-justify">
               I argue that assertion is a proposal to close a collective
