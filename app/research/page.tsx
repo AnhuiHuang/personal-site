@@ -115,13 +115,9 @@ export default function Research() {
             </p>
           </div>
 
-          <div className="text-justify">
-            <em>Inquiry through Fiction</em>
-            <p className="mt-1 text-justify">
-              I explore the ways in which fiction can create deep knowledge by
-              initiating and directing actual inquiries.
-            </p>
-          </div>
+          
+
+          
         </div>
       </section>
 
@@ -137,4 +133,7 @@ export default function Research() {
             Congress</em>, pp. 651–658, 2021.
           </p>
         </div>
-      </
+      </section>
+    </main>
+  );
+}
