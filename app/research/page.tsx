@@ -71,4 +71,70 @@ export default function Research() {
               I argue that assertion is a proposal to close a collective
               inquiry. This account helps solve Ninan's puzzle: the
               appropriateness of an assertion can change over time even when a
-              speaker's
+              speaker's evidence remains the same.
+            </p>
+          </div>
+
+          <div className="text-justify">
+            <em>The Inquiry Model of Common Ground</em>
+            <p className="mt-1 text-justify">
+              I develop a model of common ground that takes seriously its role
+              in coordinating collective inquiry and accommodates non-ideal
+              conversations.
+            </p>
+          </div>
+
+          <div className="text-justify">
+            <em>What Counts as Progress in Inquiry</em>
+            <p className="mt-1 text-justify">
+              What does it mean to make progress in inquiry? I compare two
+              pictures of progress in inquiry: the exploration picture and the
+              goal-directed picture. I argue that the exploration picture is
+              better.
+            </p>
+          </div>
+
+          <div className="text-justify">
+            <em>Fictions as Instructions</em>
+            <p className="mt-1 text-justify">
+              I argue that fictional works are instructions for imaginative
+              activity rather than props for make-believe.
+            </p>
+          </div>
+
+          <div className="text-justify">
+            <em>When Authors Are Bad Instructors</em>
+            <p className="mt-1 text-justify">
+              “In killing the sheriff, Ed did the right thing, for he would have
+              been arrested for the stolen gold.” It is jarring when a sentence
+              like this appears in a novel. More importantly, many of us
+              consider it false, even in the fiction. But why? I propose an
+              explanation of imaginative resistance that focuses on the
+              author's role as instructor in a collaborative imaginative
+              activity.
+            </p>
+          </div>
+
+          <div className="text-justify">
+            <em>Inquiry through Fiction</em>
+            <p className="mt-1 text-justify">
+              I explore the ways in which fiction can create deep knowledge by
+              initiating and directing actual inquiries.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="mt-14">
+        <h2 className="text-2xl mb-6 text-justify">Publications</h2>
+        <div className="text-justify">
+          <em>
+            Mere Subjectivism? Kant’s Transcendental Deduction and the Hegelian
+            Criticism
+          </em>
+          <p className="mt-1 text-justify">
+            With Justin Shaddock. <em>Proceedings of the 13th International Kant
+            Congress</em>, pp. 651–658, 2021.
+          </p>
+        </div>
+      </
