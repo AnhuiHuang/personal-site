@@ -32,7 +32,7 @@ export default function Home() {
             </p>
 
             <p className="mt-10">
-              Here is my <a href="public/cv.pdf" target="_blank" rel="noopener noreferrer" className="underline text-[#BFC5B9]">
+              Here is my <a href="/cv.pdf" target="_blank" rel="noopener noreferrer" className="underline text-[#BFC5B9]">
                 CV
               </a>
               .
