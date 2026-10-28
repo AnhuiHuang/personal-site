@@ -8,9 +8,11 @@ export default function Home() {
         {/* Profile Picture */}
         <div>
          <img
+  
   src="/profile.jpg"
   alt="Anhui Huang"
-  className="w-[70%] h-auto ml-auto mr-0md:object-top border-2"
+  className="w-[85%] md:w-[70%] h-auto mx-auto md:ml-auto md:mr-0 border-2"
+/>
 />
         </div>
 
