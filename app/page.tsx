@@ -2,16 +2,14 @@
 export default function Home() {
   return (
     <main className="max-w-[1000px] mx-auto px-8 pt-8 pb-28 text-[#FEFBE3] leading-relaxed">
-
       {/* Image and Body */}
       <div className="grid grid-cols-1 md:grid-cols-[0.85fr_1.15fr] gap-12 items-start">
-
         {/* Profile Picture */}
         <div className="flex justify-center md:justify-end">
           <img
             src="/profile.jpg"
             alt="Anhui Huang"
-            className="w-[85%] md:w-[70%] h-auto border-2"
+            className="w-[60%] md:w-[70%] h-auto border-2"
           />
         </div>
 
@@ -44,7 +42,6 @@ export default function Home() {
             </p>
           </div>
         </div>
-
       </div>
     </main>
   );
