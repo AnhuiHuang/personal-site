@@ -1,3 +1,4 @@
+
 export default function Home() {
   return (
     <main className="max-w-[1000px] mx-auto px-8 pt-8 pb-28 text-[#FEFBE3] leading-relaxed">
@@ -5,7 +6,7 @@ export default function Home() {
       {/* Image and Body */}
       <div className="grid grid-cols-1 md:grid-cols-[0.85fr_1.15fr] gap-12 items-start">
 
-        
+        {/* Profile Picture */}
         <div className="flex justify-center md:justify-end">
           <img
             src="/profile.jpg"
@@ -16,9 +17,7 @@ export default function Home() {
 
         {/* Body */}
         <div className="text-[17px] leading-7 text-justify">
-
           <div className="space-y-6">
-
             <p>
               I am a PhD candidate in Philosophy at UC Berkeley, advised by John
               MacFarlane and Seth Yalcin. I work on epistemology and philosophy of
@@ -32,18 +31,21 @@ export default function Home() {
             </p>
 
             <p className="mt-10">
-              Here is my <a href="/cv.pdf" target="_blank" rel="noopener noreferrer" className="underline text-[#BFC5B9]">
+              Here is my{" "}
+              <a
+                href="/cv.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline text-[#BFC5B9]"
+              >
                 CV
               </a>
               .
             </p>
-
           </div>
-
         </div>
 
       </div>
-
     </main>
   );
 }
