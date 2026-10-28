@@ -5,15 +5,13 @@ export default function Home() {
       {/* Image and Body */}
       <div className="grid grid-cols-1 md:grid-cols-[0.85fr_1.15fr] gap-12 items-start">
 
-        {/* Profile Picture */}
-        <div>
-         <img
-  
-  src="/profile.jpg"
-  alt="Anhui Huang"
-  className="w-[85%] md:w-[70%] h-auto mx-auto md:ml-auto md:mr-0 border-2"
-/>
-/>
+        
+        <div className="flex justify-center md:justify-end">
+          <img
+            src="/profile.jpg"
+            alt="Anhui Huang"
+            className="w-[85%] md:w-[70%] h-auto border-2"
+          />
         </div>
 
         {/* Body */}
